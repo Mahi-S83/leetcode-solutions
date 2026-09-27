@@ -14,8 +14,8 @@ class Solution {
         if(index==-1)
         {reverse(0,n,nums);
         return;}
+        
         int end = n - 1;
-
 while (nums[end] <= nums[index]) {
     end--;
 }
@@ -36,3 +36,25 @@ while (nums[end] <= nums[index]) {
         }
     }
 }
+/*
+REVISION NOTES / MISTAKES:
+
+1. index = -1, not 0
+   → index 0 can be a valid pivot.
+   → -1 means pivot was not found.
+
+2. If index == -1:
+   → reverse the whole array AND return.
+   → Otherwise code will continue unnecessarily.
+
+3. To find the next element:
+   → Need nums[j] > nums[index].
+   → My mindiff approach could select a smaller number.
+   → Since suffix is decreasing, search from RIGHT.
+
+4. reverse():
+   → Use two pointers: i = start, j = end - 1.
+   → Don't write: end - 1 / 2 because of integer division/order.
+
+5. Use nums, not arr.
+*/
