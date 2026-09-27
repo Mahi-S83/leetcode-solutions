@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0059-spiral-matrix-ii](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahi-S83/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
