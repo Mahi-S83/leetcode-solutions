@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mahi-S83/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahi-S83/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mahi-S83/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mahi-S83/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
 |  |
 | ------- |
