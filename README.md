@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mahi-S83/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
