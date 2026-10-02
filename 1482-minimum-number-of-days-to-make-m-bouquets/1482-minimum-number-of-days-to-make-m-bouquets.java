@@ -3,10 +3,14 @@ class Solution {
       int low=1;
       int high=0;
       int z=bloomDay.length;
+      
       for(int n:bloomDay)
       {
         high=Math.max(n,high);
       }
+      if ((long) m * k > bloomDay.length) {
+            return -1;
+        }
       int day=0;  
       int ans=-1;
       while(low<=high)
