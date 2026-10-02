@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -134,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
