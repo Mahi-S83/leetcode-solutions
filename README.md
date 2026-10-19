@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mahi-S83/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mahi-S83/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
